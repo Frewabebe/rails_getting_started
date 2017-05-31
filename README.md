@@ -23,4 +23,4 @@ From that point on, commit your progress at the end of each section.
 
 ## Submission
 
-When you have completed the homework, push your work to the repo you created at the beginning of this assignment. Then post an issue on this repo that contains a link to your own repo.
+When you have completed the homework, push your work to the repo you created at the beginning of this assignment. Then [submit an issue](https://github.com/ga-wdi-exercises/rails_getting_started/issues/new) on this repo that contains a link to your own repo.
