@@ -1,9 +1,26 @@
-## [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)
+# Getting Started with Rails
 
-For [this homework](http://guides.rubyonrails.org/getting_started.html), follow the walkthrough steps in chapters 1-5 of [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html).
+For this assignment you will be walking through Rails' official "Getting Started With Rails" guide.
 
-The first 2 chapters are super short and just contain information. Section 3.2 is where the codealong walkthrough begins.
+## Instructions
 
-#### In section 3.2, after you follow the first two steps of the walkthrough, `rails new blog` and `cd blog`, __*run `git init`*__. Commit your progess at the end of each section.
+Create a repo called `getting-started-with-rails` on Github. Then clone it down and change into the resulting directory.
 
-When you have completed the homework, push your HW repo up to your github account, and then post an issue to this repo with a link to your completed HW.
+```bash
+$ git clone your-repo-url-goes-here
+$ cd getting-started-with-rails
+```
+
+Then follow the steps in chapters 1-5 of [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html).
+
+## The Code-Along
+
+The coding portion of this assignment begins in section 3.2.
+
+After you follow the first two steps of the walkthrough (i.e., `rails new blog` and `cd blog`), run `$ git init` in the Terminal.
+
+From that point on, commit your progress at the end of each section.
+
+## Submission
+
+When you have completed the homework, push your work to the repo you created at the beginning of this assignment. Then [submit an issue](https://github.com/ga-wdi-exercises/rails_getting_started/issues/new) on this repo that contains a link to your own repo.
