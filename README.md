@@ -15,7 +15,9 @@ Then follow the steps in chapters 1-5 of [Getting Started with Rails](http://gui
 
 ## The Code-Along
 
-The coding portion of this assignment begins in section 3.2. After you follow the first two steps of the walkthrough (i.e., `rails new blog` and `cd blog`), run `$ git init` in the Terminal.
+The coding portion of this assignment begins in section 3.2.
+
+After you follow the first two steps of the walkthrough (i.e., `rails new blog` and `cd blog`), run `$ git init` in the Terminal.
 
 From that point on, commit your progress at the end of each section.
 
