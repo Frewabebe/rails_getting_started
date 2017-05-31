@@ -4,7 +4,7 @@ For this assignment you will be walking through Rails' official "Getting Started
 
 ## Instructions
 
-Create a repo called `getting-started-with-rails` on Github. Then clone it down and switch into the new directory.
+Create a repo called `getting-started-with-rails` on Github. Then clone it down and change into the resulting directory.
 
 ```bash
 $ git clone your-repo-url-goes-here
